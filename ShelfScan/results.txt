@@ -1,0 +1,32 @@
+===============================================
+        WEB SCRAPER - ANALYSIS RESULTS        
+===============================================
+
+PERFORMANCE STATS:
+- Pages processed: 50
+- Books found: 1000
+- Failed requests: 0
+- Execution time: 4.729s
+
+CONTENT ANALYSIS:
+1. Number of 5-star books: 196
+2. Average book price: £34.79
+3. Most expensive book: "The Perfect Play (Play by Play #1)" (£59.99)
+4. Cheapest book: "An Abundance of Katherines" (£10.00)
+5. Total value of all books: £34805.00
+
+ADDITIONAL STATS:
+- Average rating: 2.9/5
+- Books in stock: 1000
+
+RATING DISTRIBUTION:
+- 1 star: 226 books
+- 2 star: 196 books
+- 3 star: 203 books
+- 4 star: 179 books
+- 5 star: 196 books
+
+AVAILABILITY:
+- In stock: 1000 books
+
+===============================================
