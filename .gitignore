@@ -361,3 +361,32 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# --- Custom for ShelfScan C++ Project ---
+
+# Generated analysis results
+results.txt
+results.json
+
+# Build cache folders
+out/
+build/
+CMakeFiles/
+
+# Performance profiling or timing logs
+*.perf
+*.trace
+*.timing
+
+# Backup files from Visual Studio renaming or refactoring
+*.bak
+*.orig
+
+# Miscellaneous
+*.cache
+*.log
+*.tmp
+
+# Local dependency management (if you ever experiment with vcpkg locally)
+vcpkg_installed/
+vcpkg_downloads/
