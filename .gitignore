@@ -388,5 +388,6 @@ CMakeFiles/
 *.tmp
 
 # Local dependency management (if you ever experiment with vcpkg locally)
+vcpkg/
 vcpkg_installed/
 vcpkg_downloads/
